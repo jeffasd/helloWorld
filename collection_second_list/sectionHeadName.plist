@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>test----</string>
+		<key>nameOpen</key>
+		<string>1点击打开二级目录</string>
+		<key>nameClose</key>
+		<string>1点击关闭二级目录</string>
+		<key>isOpen</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>test----</string>
+		<key>nameOpen</key>
+		<string>2点击打开二级目录</string>
+		<key>nameClose</key>
+		<string>2点击关闭二级目录</string>
+		<key>isOpen</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>test----</string>
+		<key>nameOpen</key>
+		<string>2点击打开二级目录</string>
+		<key>nameClose</key>
+		<string>2点击关闭二级目录</string>
+		<key>isOpen</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>test----</string>
+		<key>nameOpen</key>
+		<string>2点击打开二级目录</string>
+		<key>nameClose</key>
+		<string>2点击关闭二级目录</string>
+		<key>isOpen</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>test----</string>
+		<key>nameOpen</key>
+		<string>2点击打开二级目录</string>
+		<key>nameClose</key>
+		<string>2点击关闭二级目录</string>
+		<key>isOpen</key>
+		<false/>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>test----</string>
+		<key>nameOpen</key>
+		<string>2点击打开二级目录</string>
+		<key>nameClose</key>
+		<string>2点击关闭二级目录</string>
+		<key>isOpen</key>
+		<false/>
+	</dict>
+</array>
+</plist>
